@@ -1,5 +1,38 @@
 [
   {
+    "id": "lead_1789572910792_pcj75",
+    "name": "Victoria Sterling",
+    "email": "vsterling@sterlingcapital.com",
+    "phone": "+1 (555) 789-0123",
+    "company": "Sterling Capital Holdings",
+    "source": "Website Contact Form",
+    "status": "contacted",
+    "message": "Looking to deploy a lead management workflow for our portfolio company sales teams.",
+    "followUpDate": "2026-09-18",
+    "notes": [
+      {
+        "id": "note_form_1789572910789",
+        "content": "Website Inquiry: \"Looking to deploy a lead management workflow for our portfolio company sales teams.\"",
+        "author": "System (Website Form)",
+        "createdAt": "2026-09-16T15:35:10.789Z"
+      },
+      {
+        "id": "note_1789572955608_nhqx",
+        "content": "Status updated from \"NEW\" to \"CONTACTED\"",
+        "author": "Demo Admin",
+        "createdAt": "2026-09-16T15:35:55.608Z"
+      },
+      {
+        "id": "note_1789573150087_dd7z",
+        "content": "Introductory call completed. Victoria requested custom tier pricing.",
+        "author": "Demo Admin",
+        "createdAt": "2026-09-16T15:39:10.087Z"
+      }
+    ],
+    "createdAt": "2026-09-16T15:35:10.792Z",
+    "updatedAt": "2026-09-16T15:39:10.090Z"
+  },
+  {
     "id": "lead_1789571071144_okjf",
     "name": "Sarah Jenkins",
     "email": "sarah.jenkins@acmesolutions.io",
@@ -96,10 +129,22 @@
         "content": "Sent initial scheduling link for Zoom demo.",
         "author": "Admin",
         "createdAt": "2026-09-15T15:04:28.985Z"
+      },
+      {
+        "id": "note_1789573606592_0ivn",
+        "content": "Status updated from \"CONTACTED\" to \"CONVERTED\"",
+        "author": "Demo Admin",
+        "createdAt": "2026-09-16T15:46:46.592Z"
+      },
+      {
+        "id": "note_1789573610009_pdgx",
+        "content": "Status updated from \"CONVERTED\" to \"CONTACTED\"",
+        "author": "Demo Admin",
+        "createdAt": "2026-09-16T15:46:50.009Z"
       }
     ],
     "createdAt": "2026-09-15T15:04:28.985Z",
-    "updatedAt": "2026-09-15T15:04:28.985Z"
+    "updatedAt": "2026-09-16T15:46:50.012Z"
   },
   {
     "id": "lead_1789556671144_wfup",
@@ -117,9 +162,21 @@
         "content": "Inquiry submitted through website support/contact page.",
         "author": "System (Website Form)",
         "createdAt": "2026-09-16T13:04:28.985Z"
+      },
+      {
+        "id": "note_1789574448171_ekhb",
+        "content": "Status updated from \"NEW\" to \"CONTACTED\"",
+        "author": "Demo Admin",
+        "createdAt": "2026-09-16T16:00:48.171Z"
+      },
+      {
+        "id": "note_1789574451450_cazb",
+        "content": "Status updated from \"CONTACTED\" to \"NEW\"",
+        "author": "Demo Admin",
+        "createdAt": "2026-09-16T16:00:51.450Z"
       }
     ],
     "createdAt": "2026-09-16T13:04:28.985Z",
-    "updatedAt": "2026-09-16T13:04:28.985Z"
+    "updatedAt": "2026-09-16T16:00:51.453Z"
   }
 ]
