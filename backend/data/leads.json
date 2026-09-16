@@ -1,0 +1,125 @@
+[
+  {
+    "id": "lead_1789571071144_okjf",
+    "name": "Sarah Jenkins",
+    "email": "sarah.jenkins@acmesolutions.io",
+    "phone": "+1 (555) 234-5678",
+    "company": "Acme Solutions",
+    "source": "Website Contact Form",
+    "status": "new",
+    "message": "Interested in enterprise pricing for our 50-person sales team. Looking to deploy by next quarter.",
+    "followUpDate": "2026-09-18",
+    "notes": [
+      {
+        "id": "note-1",
+        "content": "Submitted inquiry via main landing page contact form.",
+        "author": "System (Website Form)",
+        "createdAt": "2026-09-16T10:04:28.985Z"
+      }
+    ],
+    "createdAt": "2026-09-16T10:04:28.985Z",
+    "updatedAt": "2026-09-16T10:04:28.985Z"
+  },
+  {
+    "id": "lead_1789567471144_nvl7",
+    "name": "David Chen",
+    "email": "d.chen@apexlogistics.com",
+    "phone": "+1 (555) 987-6543",
+    "company": "Apex Logistics",
+    "source": "Website Contact Form",
+    "status": "contacted",
+    "message": "Need automated lead tracking and notes synchronization for our fleet managers.",
+    "followUpDate": "2026-09-17",
+    "notes": [
+      {
+        "id": "note-2",
+        "content": "Form inquiry received: requested fleet manager workflow demo.",
+        "author": "System (Website Form)",
+        "createdAt": "2026-09-14T15:04:28.985Z"
+      },
+      {
+        "id": "note-3",
+        "content": "Completed intro discovery call. David requested a custom proposal with API integration details.",
+        "author": "Admin",
+        "createdAt": "2026-09-15T15:04:28.985Z"
+      }
+    ],
+    "createdAt": "2026-09-14T15:04:28.985Z",
+    "updatedAt": "2026-09-15T15:04:28.985Z"
+  },
+  {
+    "id": "lead_1789563871144_ibfx",
+    "name": "Elena Rostova",
+    "email": "elena@novatech.dev",
+    "phone": "+1 (555) 432-1098",
+    "company": "NovaTech Innovations",
+    "source": "Referral",
+    "status": "converted",
+    "message": "Referred by Mark from CloudPeak. We signed the annual agreement.",
+    "followUpDate": "",
+    "notes": [
+      {
+        "id": "note-4",
+        "content": "Lead received via partner referral.",
+        "author": "Admin",
+        "createdAt": "2026-09-11T15:04:28.985Z"
+      },
+      {
+        "id": "note-5",
+        "content": "Demo presented on Friday. Approved by VP of Engineering.",
+        "author": "Admin",
+        "createdAt": "2026-09-13T15:04:28.985Z"
+      },
+      {
+        "id": "note-6",
+        "content": "Contract signed! Converted to annual client account.",
+        "author": "Admin",
+        "createdAt": "2026-09-15T15:04:28.985Z"
+      }
+    ],
+    "createdAt": "2026-09-11T15:04:28.985Z",
+    "updatedAt": "2026-09-15T15:04:28.985Z"
+  },
+  {
+    "id": "lead_1789560271144_59gf",
+    "name": "Marcus Brody",
+    "email": "mbrody@zenithretail.com",
+    "phone": "+1 (555) 345-6789",
+    "company": "Zenith Retail Group",
+    "source": "LinkedIn",
+    "status": "contacted",
+    "message": "Saw your post on omnichannel lead management. Would love to see a live demo.",
+    "followUpDate": "2026-09-19",
+    "notes": [
+      {
+        "id": "note-7",
+        "content": "Sent initial scheduling link for Zoom demo.",
+        "author": "Admin",
+        "createdAt": "2026-09-15T15:04:28.985Z"
+      }
+    ],
+    "createdAt": "2026-09-15T15:04:28.985Z",
+    "updatedAt": "2026-09-15T15:04:28.985Z"
+  },
+  {
+    "id": "lead_1789556671144_wfup",
+    "name": "Olivia Patel",
+    "email": "olivia.p@horizonhealth.org",
+    "phone": "+1 (555) 765-4321",
+    "company": "Horizon Health",
+    "source": "Website Contact Form",
+    "status": "new",
+    "message": "Looking for HIPAA-compliant client lead intake forms.",
+    "followUpDate": "2026-09-17",
+    "notes": [
+      {
+        "id": "note-8",
+        "content": "Inquiry submitted through website support/contact page.",
+        "author": "System (Website Form)",
+        "createdAt": "2026-09-16T13:04:28.985Z"
+      }
+    ],
+    "createdAt": "2026-09-16T13:04:28.985Z",
+    "updatedAt": "2026-09-16T13:04:28.985Z"
+  }
+]
